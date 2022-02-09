@@ -6,3 +6,4 @@ Owner: Edward Fetzer, Schüler vom Syntax Institut
 Hallo :) 
 Ein Apfel ist vom Baum gefallen, welcher Spruch fällt dir dazu ein? 
 Lalalallalala 
+HElloouuuuuhhuhuhuwuwuuwuwu
