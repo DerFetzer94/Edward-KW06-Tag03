@@ -1,7 +1,16 @@
-function helloWorld ()  {
+function helloWorld()  {
     // This line prints a simple message
     console.log("Hello  World");
 
+    // Return value
+    return 0;
+}
+function main() {
+    console.log("Valling the function: ");
+    
+    // Function call
+    helloWorld();
+    
     // Return value
     return 0;
 }
